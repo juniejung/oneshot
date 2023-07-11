@@ -54,6 +54,7 @@
 
 
 ## 배포URL
-http://3.35.219.34:8080/<br>
-![image](https://github.com/Neo9ri/oneshot/assets/116098324/b1d96fb9-0a04-496f-acfa-e7337ca0a5fc)
+[link](http://18.191.252.192:8080/)<br>
+![qrcode_67980326_c1972ead7da9e7335ba334c6355596e0](https://github.com/juniejung/oneshot/assets/134981437/99f97bfd-7259-4dfc-9fd7-a765b96796a4)
+
 * 서버 유지 상황에 따라 접속이 불가능할 수 있습니다.
