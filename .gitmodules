@@ -1,0 +1,3 @@
+[submodule "oneshot-private"]
+	path = oneshot-private
+	url = https://github.com/juniejung/oneshot-private

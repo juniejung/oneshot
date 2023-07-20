@@ -35,6 +35,13 @@ dependencies {
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 }
 
+task copyPrivate(type: Copy) {
+	copy {
+		from './oneshot-private'
+		include "*.yml"
+		into 'src/main/resources'
+	}
+}
 //
 //tasks.named('test') {
 //	useJUnitPlatform()
