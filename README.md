@@ -6,7 +6,7 @@
 ## 개발환경
 ![스크린샷 2023-06-29 150134](https://github.com/Neo9ri/oneshot/assets/134981437/8d862748-2d02-4464-83ee-f84cd17d7743)
 ## Coding Convention
-   👉 [Click!](https://github.com/Neo9ri/oneshot/wiki/%5B%EC%9B%90%EC%83%B7-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D-Coding-Convention)
+   👉 [Click!](https://github.com/Neo9ri/oneshot/wiki/Coding-Convention)
 ## PR 규칙
 1. master branch에는 직접 push할 수 없다.
 2. master로 PR후 최소 1인의 코드 리뷰가 필요하다.
